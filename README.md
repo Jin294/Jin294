@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 💾 Projects 💾
 
 #### [I DEV U](https://github.com/Jin294/I-DEV-U) : `23.07.04 ~ 23.08.18`
-#### SSAFY OPEN API : `23.08.21 ~ 23.10.06`
+#### [SSAFY FINANCE OPEN API](https://github.com/Jin294/SSAFY-FINANCE-OPEN-API) : `23.08.21 ~ 23.10.06`
 #### [TRIP OPEN API](https://github.com/Jin294/TRIP-OPEN-API) : `23.10.10 ~ 23.11.16`
 <br/>
 
